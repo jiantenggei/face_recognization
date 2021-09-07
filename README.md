@@ -13,7 +13,8 @@ keras | >=2.0.0
 # 其他地址：
 csdn 博客地址： https://blog.csdn.net/qq_38676487/article/details/118251992?spm=1001.2014.3001.5502
 
-百度网盘完整项目下载地址（包括数据集）：https://pan.baidu.com/s/1mZTkfkyCRv9dj6WfP1rCpw 提取码：26k9
+百度网盘项目完整：https://pan.baidu.com/s/1rmRItADJdwvCQrC3TNPwRQ 提取码：gwto
+
 
 conda虚拟环境一键导入：
 
